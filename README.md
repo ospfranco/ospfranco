@@ -5,18 +5,18 @@ Therefore here is all the code you should grab from me
 </pre>
 
 ### JS Libraries
-https://github.com/ospfranco/link-preview-js → Extract link metadata (title, description, images), think twitter link previews
+- https://github.com/ospfranco/link-preview-js → Extract link metadata (title, description, images), think twitter link previews
 
 ### Apps
-https://github.com/ospfranco/cidemon → A macOS Menu Bar app to monitor your CI (PRs, Jobs, etc)
+- https://github.com/ospfranco/cidemon → A macOS Menu Bar app to monitor your CI (PRs, Jobs, etc)
 
 ### React Native
-https://github.com/ospfranco/react-native-bump-version → A script to automatically bump your app versions
-https://github.com/ospfranco/react-native-quick-sqlite → SQlite for RN, using JSI, super super fast
-https://github.com/ospfranco/react-native-jsi-template → A template to create JSI modules
+- https://github.com/ospfranco/react-native-bump-version → A script to automatically bump your app versions
+- https://github.com/ospfranco/react-native-quick-sqlite → SQlite for RN, using JSI, super super fast
+- https://github.com/ospfranco/react-native-jsi-template → A template to create JSI modules
 
 ### Misc
-https://github.com/ospfranco/bin → Personal binaries/scripts, put them in $PATH = profit
+- https://github.com/ospfranco/bin → Personal binaries/scripts, put them in $PATH = profit
 
 
 <pre align="center">
