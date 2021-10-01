@@ -23,6 +23,10 @@ Therefore here is all the code you should grab from me
 <pre align="center">
 That being said I would appreciatte if you follow me and/or buy my products!
 
+I'm also available for freelance work/consultation! You should check-out my website, to see all the stuff I have done!
+
+https://ospfranco.com
+
 Cheers
 </pre>
 
