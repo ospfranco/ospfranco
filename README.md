@@ -14,6 +14,7 @@ Therefore here is all the code you should grab from me
 - https://github.com/ospfranco/react-native-bump-version → A script to automatically bump your app versions
 - https://github.com/ospfranco/react-native-quick-sqlite → SQlite for RN, using JSI, super super fast
 - https://github.com/ospfranco/react-native-jsi-template → A template to create JSI modules
+- https://github.com/ospfranco/react-native-macos-menubar-template → Build a macOS menu bar app using RN
 
 ### Misc
 - https://github.com/ospfranco/bin → Personal binaries/scripts, put them in $PATH = profit
