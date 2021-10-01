@@ -1,16 +1,30 @@
-### Hi there 👋
+<pre align="center">
+Hello there stranger
+I'm in the business of giving you as much value as I can as fast as I can
+Therefore here is all the code you should grab from me
+</pre>
 
-<!--
-**ospfranco/ospfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### JS Libraries
+https://github.com/ospfranco/link-preview-js → Extract link metadata (title, description, images), think twitter link previews
 
-Here are some ideas to get you started:
+### Apps
+https://github.com/ospfranco/cidemon → A macOS Menu Bar app to monitor your CI (PRs, Jobs, etc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### React Native
+https://github.com/ospfranco/react-native-bump-version → A script to automatically bump your app versions
+https://github.com/ospfranco/react-native-quick-sqlite → SQlite for RN, using JSI, super super fast
+https://github.com/ospfranco/react-native-jsi-template → A template to create JSI modules
+
+### Misc
+https://github.com/ospfranco/bin → Personal binaries/scripts, put them in $PATH = profit
+
+
+<pre align="center">
+That being said I would appreciatte if you follow me and/or buy my products!
+
+Cheers
+</pre>
+
+<a align="center" href="https://twitter.com/ospfranco">
+  <img src="https://img.shields.io/twitter/follow/ospfranco?label=Follow%20%40ospfranco&style=social" />
+</a>
