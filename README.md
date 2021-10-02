@@ -20,15 +20,18 @@ Therefore here is all the code you should grab from me
 - https://github.com/ospfranco/bin → Personal binaries/scripts, put them in $PATH = profit
 
 
-<pre align="center">
+### That's all for now!
+
 That being said I would appreciatte if you follow me and/or buy my products!
+
+https://messerapp.cc
+https://ospfranco.gumroad.com
 
 I'm also available for freelance work/consultation! You should check-out my website, to see all the stuff I have done!
 
 https://ospfranco.com
 
 Cheers
-</pre>
 
 <a align="center" href="https://twitter.com/ospfranco">
   <img src="https://img.shields.io/twitter/follow/ospfranco?label=Follow%20%40ospfranco&style=social" />
