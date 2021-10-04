@@ -6,6 +6,7 @@ Therefore here is all the code you should grab from me
 
 ### JS Libraries
 - https://github.com/ospfranco/link-preview-js → Extract link metadata (title, description, images), think twitter link previews
+- https://github.com/ospfranco/gh-jester → Posts Jest results into PRs directly to quickly get feedback when something fails
 
 ### Apps
 - https://github.com/ospfranco/cidemon → A macOS Menu Bar app to monitor your CI (PRs, Jobs, etc)
