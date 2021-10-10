@@ -1,8 +1,4 @@
-<pre align="center">
-Hello there stranger
-I'm in the business of giving you as much value as I can as fast as I can
-Therefore here is all the code you should grab from me
-</pre>
+# Check these out
 
 ### JS Libraries
 - https://github.com/ospfranco/link-preview-js → Extract link metadata (title, description, images), think twitter link previews
