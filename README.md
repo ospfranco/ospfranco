@@ -5,7 +5,8 @@
 - https://github.com/ospfranco/gh-jester → Posts Jest results into PRs directly to quickly get feedback when something fails
 
 ### Apps
-- https://github.com/ospfranco/cidemon → A macOS Menu Bar app to monitor your CI (PRs, Jobs, etc)
+- https://messerapp.cc → A macOS Menu Bar app for quick image edition
+- https://cidemon.com/ → A macOS Menu Bar app to monitor your CI (PRs, Jobs, etc)
 
 ### React Native
 - https://github.com/ospfranco/react-native-bump-version → A script to automatically bump your app versions
