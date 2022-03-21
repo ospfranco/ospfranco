@@ -7,6 +7,7 @@
 ### Apps
 - https://messerapp.cc → A macOS Menu Bar app for quick image edition
 - https://cidemon.com/ → A macOS Menu Bar app to monitor your CI (PRs, Jobs, etc)
+- https://github.com/ospfranco/sol → A macOS Launcher
 
 ### React Native
 - https://github.com/ospfranco/react-native-bump-version → A script to automatically bump your app versions
@@ -23,6 +24,9 @@
 That being said I would appreciatte if you follow me and/or buy my products!
 
 https://messerapp.cc
+
+https://cidemon.com
+
 https://ospfranco.gumroad.com
 
 I'm also available for freelance work/consultation! You should check-out my website, to see all the stuff I have done!
