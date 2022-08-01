@@ -5,7 +5,6 @@ I'm Oscar, a freelance dev, I do everything mobile, c++, back-end, saas building
 - [GH Jester](https://github.com/ospfranco/gh-jester) → Posts Jest results into PRs directly to quickly get feedback when something fails
 
 ### Apps
-- [Messer](https://messerapp.cc) → A macOS Menu Bar app for quick image edition
 - [CI Demon](https://cidemon.com/) → A macOS Menu Bar app to monitor your CI (PRs, Jobs, etc)
 - [SOL](https://github.com/ospfranco/sol) → A macOS Launcher
 
