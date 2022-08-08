@@ -1,4 +1,4 @@
-I'm Oscar, a freelance dev, I do everything mobile, c++, back-end, saas building, etc. Check out [my home page](ospfranco.com)
+Freelance dev, I've done everything. Mobile/Web, back-end, saas building, etc. Check out [my home page](ospfranco.com)
 
 ### JS Libraries
 - [Link Preview JS](https://github.com/ospfranco/link-preview-js) → Extract link metadata (title, description, images), think twitter link previews
