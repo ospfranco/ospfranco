@@ -1,4 +1,6 @@
-Freelance dev, I've done everything. Mobile/Web, back-end, saas building, team lead, CTO. 
+Freelance dev.
+
+Most of the libraries I've created are now under [op-engineering](https://github.com/OP-Engineering)
 
 Feel free to reach out for work-related queries!
 
